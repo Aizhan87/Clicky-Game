@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Sailor moon",
+    "image": "https://dw9to29mmj727.cloudfront.net/properties/2016/432-SeriesThumbnails_SM__400x320.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Sailor Mercury",
+    "image": "https://pbs.twimg.com/media/Dnp1FcuU8AApnnr.jpg:large",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Sailor Mars",
+    "image": "http://ai-no-senshi.net/img-animators/animation_masahiro_ando_ep23_04_big.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Sailor Jupiter",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/248f27ec-2ec3-4a0f-9cf0-c7bf7a329c3d/d9gsg3m-027ee811-1db5-4149-aa21-b4067370a294.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI0OGYyN2VjLTJlYzMtNGEwZi05Y2YwLWM3YmY3YTMyOWMzZFwvZDlnc2czbS0wMjdlZTgxMS0xZGI1LTQxNDktYWEyMS1iNDA2NzM3MGEyOTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.boEHprUuaGcu7O0dxGbunqA5zm3t-FaANbJEw0YSm2Q",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Sailor Venus",
+    "image": "http://images2.fanpop.com/image/photos/10300000/Sailor-Venus-sailor-venus-10388211-500-374.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Tuxedo Mask",
+    "image": "https://i.ytimg.com/vi/1dCQs-hk9Jg/maxresdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Sailor Uranus",
+    "image": "https://pbs.twimg.com/media/DOiFLFVU8AAt8pJ.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Sailor Neptune",
+    "image": "https://pm1.narvii.com/6991/b348dfb10a2f8d148979f21d1e748e385255339ar1-600-450v2_hq.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Sailor Pluto",
+    "image": "https://data.whicdn.com/images/174428731/large.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Sailor Chibi Moon",
+    "image": "https://vignette.wikia.nocookie.net/duchess-productions/images/0/09/Sailor_Chibi_Moon.jpg/revision/latest?cb=20180629004359",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Sailor Saturn",
+    "image": "http://www.tropigalia.net/wp-content/uploads/2017/12/sailor_saturn.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Sailor Starmaker",
+    "image": "https://i.ytimg.com/vi/s4DWL6BW7c0/hqdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Sailor Starfighter",
+    "image": "http://images6.fanpop.com/image/photos/32600000/Seiya-kou-seiya-sailor-star-fighter-32641737-500-375.jpg",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Sailor Starhealer",
+    "image": "https://i.ytimg.com/vi/eakpSHpwXzs/hqdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Artemis and Luna",
+    "image": "https://i.stack.imgur.com/6bTOF.jpg",
+    "clicked": false
+  }
+]
